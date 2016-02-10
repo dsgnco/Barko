@@ -1,5 +1,7 @@
 # Barko
 
+![Alt text](barko-thumb.jpg?raw=true "Title")
+
 A font Made by DSGN.CO
 Barko is free for personal use.
 
